@@ -1,0 +1,930 @@
+{
+  "roles": [
+    {
+      "name": "🛡️ | Staff Confirmé",
+      "color": "#f1c40f",
+      "permissions": "562949956578304",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "💨·Compliqué",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "—",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "—",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "❤️‍🔥 | Directeur",
+      "color": "#5a4444",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "·Muet",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "🧠 P2",
+      "color": "#140303",
+      "permissions": "572853576806083",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "✨| Prodige Tenkuu",
+      "color": "#7500ff",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "💌·Partenariat",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "🧡 | Légende",
+      "color": "#71368a",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "👠·Femme",
+      "color": "#cd4141",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "🌸•Amara",
+      "color": "#000000",
+      "permissions": "412384349249",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "🌺·Animation",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "🔱 | Empereur",
+      "color": "#f00000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "💔·celibataire",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "🌟· /Amara",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "🛠️ | Nouveau Staff",
+      "color": "#2ecc71",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "👑 | Souverain",
+      "color": "#1f8b4c",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "👷 | Helpeur",
+      "color": "#a84300",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "🍷·Majeur",
+      "color": "#e91e63",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "🌟 | Superstar",
+      "color": "#a84300",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "⚡️| Maitre Tenkuu",
+      "color": "#6f8f66",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "🧬 | Mentor",
+      "color": "#546e7a",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "👨‍🍳P4",
+      "color": "#080c0e",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "⚒️   •   builder",
+      "color": "#ff6c00",
+      "permissions": "2108863302074367",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "—",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "++",
+      "color": "#fafdff",
+      "permissions": "0",
+      "mentionable": true,
+      "hoist": false
+    },
+    {
+      "name": "—",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "🧃·Mineur",
+      "color": "#2ecc71",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "💰·Coins",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "—",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "🎉·Giveaway",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "🛠 P1",
+      "color": "#1b0404",
+      "permissions": "572845791914689",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "🪐 | Éminent",
+      "color": "#992d22",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "Bot",
+      "color": "#000000",
+      "permissions": "2108863302074367",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "🌟| Élite Tenkuu",
+      "color": "#160909",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "—",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "—",
+      "color": "#ffffff",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "👨‍💼P3",
+      "color": "#000000",
+      "permissions": "682867050278593",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "❤️·couple",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "👑   •/LA  LEGENDE",
+      "color": "#f0c414",
+      "permissions": "2108863302074367",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "💠 | Impliqué",
+      "color": "#e91e63",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": true
+    },
+    {
+      "name": "—",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "🌺P5",
+      "color": "#0c0e0f",
+      "permissions": "2069280345948131",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "—",
+      "color": "#000000",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "👔·Homme",
+      "color": "#3498db",
+      "permissions": "0",
+      "mentionable": false,
+      "hoist": false
+    },
+    {
+      "name": "🧠 | Vétéran",
+      "color": "#1f8b4c",
+      "permissions": "603907297390529",
+      "mentionable": false,
+      "hoist": true
+    }
+  ],
+  "channels": [
+    {
+      "name": "📞・Salons vocaux",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "🏝 ・Vocaux temporaires",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "🧿   •   Vocal 2",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "💤・Sleep Call 5",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "☘   •   Vocal 13",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "👑 ・Owner 1",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "📢・stay-here",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🌐   •   Vocal 10",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🦿・id-rôles",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "💻・cmds-bots",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🌺   •   private 6",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🏝 ・Discution générale",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "🛰・annonces-gestions",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "📁・logs-message",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "📃・infos-sanctions",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "📩・invitations",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🏴・cmds-admin",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "👻・selfies",
+      "type": 0,
+      "topic": "🚨Texte ici = mute 30m | NSFW = Ban:rotating_light:\n\n:camera_with_flash: Bienvenue dans le salon Selfies !\nIci, c’est l’endroit pour partager vos plus beaux clichés : selfies, photos stylées ou moments du quotidien !\n\nQuelques petites règles :\n• Soyez bienveillants et respectueux dans les réactions et commentaires.\n• Ne publiez que vos propres photos (pas celles des autres sans leur accord).\n• Pas de contenu inapproprié.\n\nMontrez-nous vos plus beaux sourires !:camera_with_flash:"
+    },
+    {
+      "name": "📁・logs-salons",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🌺   •   private 4",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "📂・Espace Logs Admin",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "🔧・gestions",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🦋   •   Vocal 11",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "💼・fusion",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "💤・Sleep Call 4",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "📁・logs-vocaux",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "📸・médias",
+      "type": 0,
+      "topic": "Bienvenue dans le salon Média !\nIci, vous pouvez partager toutes sortes de contenus visuels et créatifs :\n• Photos, vidéos, musiques, dessins, mèmes, et plus encore !\n\nQuelques consignes :\n• Postez uniquement du contenu approprié.\n• Respectez le travail des créateurs.\n• Pensez à décrire ou commenter ce que vous partagez pour encourager les échanges !\n\nFaites-nous découvrir vos talents ou vos coups de cœur !"
+    },
+    {
+      "name": "📁・logs-sanctions",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "📜・règlement-staff",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "⚓・ADMIN 1",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🌀   •   Vocal 1",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "📂・limit-voice",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "💻・cmds-gestions",
+      "type": 0,
+      "topic": "Ne pas renew le salon."
+    },
+    {
+      "name": "🤝-partenariat",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🔝・bump",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🔑・serveur-staff",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "Event soon",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🛌🏾・info-sleepcall",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "📂・anti-deco",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "💦   •   Vocal 12",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "💤・Sleep Call",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "🎉・giveaway-staff",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🔇・avertissement",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "📈-tiktok",
+      "type": 0,
+      "topic": "envoyez un screen de vos ancien rôles\nevitez de parler dans ce salon"
+    },
+    {
+      "name": "📢・annonce-staff",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🔔・annonces",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🎉・decoration",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "⛱   •   private 7",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "♻   •   Vocal 18",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "☀・/amara",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "💬・chat-staff",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "⛱   •   private 9",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "moderator-only",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🔇・no-micro",
+      "type": 0,
+      "topic": "Salon textuel pour les personnes qui n'ont malheureusement pas de micro mute on a pensez à vous. Vous pouvez dès à présent parler sans forcement parler 🗣"
+    },
+    {
+      "name": "ticket-0001",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🌳   •   Vocal 17",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🔎・preuves",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "📊・Espace Stats",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "🌺   •   private 2",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "💻・cmds-bot",
+      "type": 0,
+      "topic": "💻 Bienvenue dans le salon Commandes Bot !\nIci, vous pouvez utiliser les commandes des bots du serveur pour vous amuser, gagner des récompenses ou interagir avec différentes fonctionnalités !\n\nÀ savoir :\n• Merci de ne pas flooder les commandes.\n• Utilisez uniquement les commandes prévues dans ce salon.\n• Respectez les règles spécifiques de chaque bot si indiqué.:computer:\n:joystick:Amusez vous bien:joystick:"
+    },
+    {
+      "name": "Réunion Staff",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🎊・Espace Animations",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "📁・logs-tickets",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🌺   •   private 10",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "📑・Espace Hauts Gradés",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "🗼・Phare de gestion",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "📗   •   Vocal 16",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🎉・Espace Giveaways",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "💙   •   Vocal 3",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🌺   •   private 8",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🎓・comment-rankup",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🛟・Infos Staff",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "🚩・chat-admin",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🏆・salle-des-trophées",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🔇・sanctions",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🔖・ticket",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "➕ Créer ta voc",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🥶   •   Vocal 6",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🩵   •   Vocal 7",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "📢annonce-event",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "📁・Espace Logs CrowBots",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "⚓・ADMIN 2",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "📁・logs-rôles",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🎊・recrutement-animateur",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "💬・chat-event",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🔇・no-micro",
+      "type": 0,
+      "topic": "Salon textuel pour les personnes qui n'ont malheureusement pas de micro mute on a pensez à vous. Vous pouvez dès à présent parler sans forcement parler 🗣"
+    },
+    {
+      "name": "💎   •   Vocal 9",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "⚓・ADMIN 3",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🍏   •   Vocal 15",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🏳・absences",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "💬・chat-animateur",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "📃・Espace Important",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "💤・Sleep Call 3",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🧢   •   Vocal 4",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "💤・Sleep Call 2",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "⛱   •   private 5",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🚨・support",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "🧊   •   Vocal 8",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🫐   •   Vocal 5",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🛟・Espace Staff",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "👥・Gestion Staff",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "⛱   •   private 1",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "🔮・boosts",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "📂・logs-auto-mod",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🔒・Private Room",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "📂・logs-join-leave",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🎩・règlement",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🎉・big-évent",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "Validation",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "👤・Gestion Abus",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "💚   •   Vocal 14",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "💤・Sleep Call 1",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "📌・réunion",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🔊・annonces-admin",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🎉・nitro",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "🔒・Private Room",
+      "type": 4,
+      "topic": null
+    },
+    {
+      "name": "🌍・discussion",
+      "type": 0,
+      "topic": null
+    },
+    {
+      "name": "⛱   •   private 3",
+      "type": 2,
+      "topic": null
+    },
+    {
+      "name": "📋・recrutements",
+      "type": 0,
+      "topic": null
+    }
+  ]
+}
